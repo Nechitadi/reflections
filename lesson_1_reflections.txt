@@ -19,3 +19,6 @@ Because I know that I can come back anytime.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 Web Pages
+
+The LESSON 1 is Over
+
