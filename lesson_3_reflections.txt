@@ -9,3 +9,6 @@ Forks copy from GitHub to GitHub, clones copy repositories from GitHub to local 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To know when was the last time the origin and local master were synced.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+In another way. Nothing. Everything.
